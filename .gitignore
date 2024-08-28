@@ -1,0 +1,6 @@
+__pycache__/
+docs/
+pdf_2_img/
+det_dir/
+cropped_img/
+temp.png
