@@ -35,7 +35,8 @@ def crop_and_save(image_path, bboxes, output_dir, confidence_threshold=0.4):
 
 def find_table(image):
     # load model
-    model = YOLO('foduucom/table-detection-and-extraction')
+    # model = YOLO('foduucom/table-detection-and-extraction')
+    model = YOLO('./best.pt')
 
     # set model parameters
     model.overrides['conf'] = 0.25  # NMS confidence threshold

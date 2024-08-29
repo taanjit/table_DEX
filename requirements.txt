@@ -7,3 +7,5 @@ natsort
 pandas
 paddlepaddle 
 paddleocr
+ghostscript
+pdf2image

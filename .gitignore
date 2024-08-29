@@ -4,3 +4,5 @@ pdf_2_img/
 det_dir/
 cropped_img/
 temp.png
+test_out_images/
+temp.pdf
