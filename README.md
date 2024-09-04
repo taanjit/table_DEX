@@ -1,4 +1,4 @@
-# Table Detection
+# Table Detection & Extraction
 
 ## Installation
 ```sh
